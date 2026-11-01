@@ -38,7 +38,7 @@ export const sites = [
       "Balungao is known for its hot spring, where warm mineral water flows into pools. Families come to soak and relax, and many resorts in the area have their own pools. It is a good stop for people who prefer a quiet place over the beach.",
     tip: "Check the temperature of the pool first. Some pools are hotter than they look.",
     contact: null,
-    image: "/images/Balungao-Hot-Spring.jpg",
+   image: "/images/Balungao-Hot-spring.jpg",
     imageAlt: "Steam rising from a pool surrounded by trees",
   },
   {
@@ -77,7 +77,7 @@ export const sites = [
       "Patar is a stretch of fine white sand with calm, clear water in Bolinao. Small resorts and cottages are found along the shore. It is a quieter option compared with the more crowded island tours.",
     tip: "Bring sunscreen. The beach has few trees for shade.",
     contact: null,
-    image: "/images/Patar-beach.jpg ",
+    image: "/images/Patar-beach.jpg",
     imageAlt: "White sand beach with small waves",
   },
 ];
