@@ -4,7 +4,7 @@
 **Selected Framework:** Next.js 14 (App Router), static export
 
 **Live Website:**
-https://tinberlake.github.io/pangasinan-heritage/
+https://tinberlake.github.io/Pangasinan-heritage/
 
 A mobile-first site that presents heritage sites in Pangasinan. Components are organized with Atomic Design.
 
