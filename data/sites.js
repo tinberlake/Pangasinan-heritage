@@ -30,7 +30,7 @@ export const sites = [
   },
   {
     slug: "balungao -hot-spring",
-    name: "Balungao Hot Spring",
+    name: "Balungao Hot spring",
     location: "Balungao",
     category: "Natural",
     summary: "Natural hot spring pools in the town of Balungao, known for warm mineral water.",
@@ -77,7 +77,7 @@ export const sites = [
       "Patar is a stretch of fine white sand with calm, clear water in Bolinao. Small resorts and cottages are found along the shore. It is a quieter option compared with the more crowded island tours.",
     tip: "Bring sunscreen. The beach has few trees for shade.",
     contact: null,
-    image: "/images/Patar-Beach.jpg ",
+    image: "/images/Patar-beach.jpg ",
     imageAlt: "White sand beach with small waves",
   },
 ];
