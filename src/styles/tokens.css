@@ -1,0 +1,37 @@
+/* Color, font and spacing tokens. Every other stylesheet uses these variables
+   so a change here updates the whole site. */
+:root {
+  /* colors */
+  --color-primary: #0b5d6b;
+  --color-primary-dark: #083f49;
+  --color-accent: #e0a526;
+  --color-bg: #fbf8f2;
+  --color-surface: #ffffff;
+  --color-text: #1f2a30;
+  --color-muted: #52606a;
+  --color-border: #d9d3c7;
+  --color-natural: #1d6b3a;
+  --color-historical: #8a4b12;
+  --color-religious: #5b3a8c;
+
+  /* typography (system fonts: nothing to download) */
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-md: 1.25rem;
+  --text-lg: 1.5rem;
+  --text-xl: 2rem;
+
+  /* spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-xxl: 3rem;
+
+  /* other */
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  --max-width: 72rem;
+}
